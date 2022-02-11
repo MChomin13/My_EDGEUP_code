@@ -1,0 +1,7 @@
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\obj\Debug\LA_4_4_2_Dice.csproj.AssemblyReference.cache
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\obj\Debug\LA_4_4_2_Dice.csproj.CoreCompileInputs.cache
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\bin\Debug\LA_4_4_2_Dice.exe.config
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\bin\Debug\LA_4_4_2_Dice.exe
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\bin\Debug\LA_4_4_2_Dice.pdb
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\obj\Debug\LA_4_4_2_Dice.exe
+H:\SOC9104\LA_4_4_2_Dice\LA_4_4_2_Dice\obj\Debug\LA_4_4_2_Dice.pdb

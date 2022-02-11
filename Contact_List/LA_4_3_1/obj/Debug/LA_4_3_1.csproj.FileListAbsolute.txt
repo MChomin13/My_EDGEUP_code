@@ -1,0 +1,7 @@
+H:\SOC9104\LA_4_3_1\LA_4_3_1\obj\Debug\LA_4_3_1.csproj.AssemblyReference.cache
+H:\SOC9104\LA_4_3_1\LA_4_3_1\obj\Debug\LA_4_3_1.csproj.CoreCompileInputs.cache
+H:\SOC9104\LA_4_3_1\LA_4_3_1\bin\Debug\LA_4_3_1.exe.config
+H:\SOC9104\LA_4_3_1\LA_4_3_1\bin\Debug\LA_4_3_1.exe
+H:\SOC9104\LA_4_3_1\LA_4_3_1\bin\Debug\LA_4_3_1.pdb
+H:\SOC9104\LA_4_3_1\LA_4_3_1\obj\Debug\LA_4_3_1.exe
+H:\SOC9104\LA_4_3_1\LA_4_3_1\obj\Debug\LA_4_3_1.pdb

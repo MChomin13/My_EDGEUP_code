@@ -1,0 +1,7 @@
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\bin\Debug\LA_4_4_3_Blockbuster.exe.config
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\bin\Debug\LA_4_4_3_Blockbuster.exe
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\bin\Debug\LA_4_4_3_Blockbuster.pdb
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\obj\Debug\LA_4_4_3_Blockbuster.csproj.AssemblyReference.cache
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\obj\Debug\LA_4_4_3_Blockbuster.csproj.CoreCompileInputs.cache
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\obj\Debug\LA_4_4_3_Blockbuster.exe
+H:\SOC9104\LA_4_4_3_Blockbuster\LA_4_4_3_Blockbuster\obj\Debug\LA_4_4_3_Blockbuster.pdb

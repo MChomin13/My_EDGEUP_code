@@ -1,0 +1,7 @@
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\obj\Debug\LA_3_3_3.csproj.AssemblyReference.cache
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\obj\Debug\LA_3_3_3.csproj.CoreCompileInputs.cache
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\bin\Debug\LA_3_3_3.exe.config
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\bin\Debug\LA_3_3_3.exe
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\bin\Debug\LA_3_3_3.pdb
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\obj\Debug\LA_3_3_3.exe
+H:\SOC9104\Branches and Loops\LA_3_3_3\LA_3_3_3\obj\Debug\LA_3_3_3.pdb
